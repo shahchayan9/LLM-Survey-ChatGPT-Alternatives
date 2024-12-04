@@ -25,7 +25,8 @@ A summarized version of the key insights from the paper, written for a broader a
 
 ### **3. Presentation**
 The slide deck provides a visual summary of the research paper and its findings.
-**[Presentation]([https://arxiv.org/pdf/2403.14469](https://docs.google.com/presentation/d/1es0H7d_mKbYTsQpnbHxetRw6h87DksDwP3K6FJqwqsw/edit#slide=id.p9))**
+
+**[Presentation](https://docs.google.com/presentation/d/1es0H7d_mKbYTsQpnbHxetRw6h87DksDwP3K6FJqwqsw/edit#slide=id.p9)**
 
 ---
 
