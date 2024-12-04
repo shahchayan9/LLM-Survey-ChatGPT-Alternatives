@@ -25,7 +25,7 @@ A summarized version of the key insights from the paper, written for a broader a
 
 ### **3. Presentation**
 The slide deck provides a visual summary of the research paper and its findings.  
-**[Presentation Slides](./slides/Exploring_LLMs.pptx)**
+**[Presentation Slides](./LLM-Survey-ChatGPT-Alternatives)**
 
 ---
 
