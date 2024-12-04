@@ -32,4 +32,4 @@ The slide deck provides a visual summary of the research paper and its findings.
 
 ### **4. Video**
 A 10 minute presentation summarizing the research paper using the slides.  
-**[Watch the Video]([https://www.youtube.com/](https://youtu.be/sZ2GElk12j0))**
+**[Watch the Video](https://youtu.be/sZ2GElk12j0)**
